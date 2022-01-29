@@ -1,0 +1,13 @@
+.firstb{
+    background-color: #000;
+    color:#fff;
+}
+
+.secondb{
+    background-color: hsl(60, 100%, 50%);
+}
+
+.firstb, .secondb{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman" , sans-serif;
+}
