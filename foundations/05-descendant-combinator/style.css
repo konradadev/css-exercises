@@ -1,0 +1,13 @@
+div p{
+    background-color:#ff0;
+    color:#f00;
+    font-size: 20px;
+    text-align: center;
+}
+/* same can be achieved with class selectors: */
+.container .text{
+    background-color:#ff0;
+    color:#f00;
+    font-size: 20px;
+    text-align: center;
+}
